@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(0, 0, 0, 0.90);
+    color: whitesmoke;
+}
+
+/* #main-title {
+    color: goldenrod;
+} */
+
+.font-gold {
+    color: goldenrod;
+}
+
+.font-dark {
+    color: darkred;
+}
+
+.btn-link {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.btn-dark, .btn-light {
+    border-radius: 5px;
+}
+
+.btn-dark .btn-link {
+    color: pink;
+}
+
+.btn-light .btn-link {
+    color: magenta;
+}
+
+
+.btn-dark {
+    background-color: darkgreen;
+    border: 2px solid yellow;
+}
+
+.btn-light {
+    background-color: white;
+    border: 2px solid cyan;
+}
+
+h3 {
+    font-size: 12px;
+}
